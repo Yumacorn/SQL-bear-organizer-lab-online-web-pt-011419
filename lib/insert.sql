@@ -21,4 +21,3 @@ INSERT INTO bears (name, gender, color, temperament, alive)
     VALUES ("Wendy", "Male", "White", "Hostile", 1);
 INSERT INTO bears (name, gender, color, temperament, alive)
     VALUES (?, "Male", "White", "Hostile", 1);
-
