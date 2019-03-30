@@ -3,5 +3,5 @@ CREATE TABLE bears
 
 
 
-    
+
   );
